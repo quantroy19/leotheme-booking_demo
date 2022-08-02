@@ -1,0 +1,28 @@
+/*header 2*/
+@media (min-width: 992px) {
+  #index header:not(.navbar-fixed-top) .topnav > .wrapper {
+    background: none !important; }
+  #index header:not(.navbar-fixed-top) .box-header3 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0;
+    top: 0;
+    z-index: 99; }
+    #index header:not(.navbar-fixed-top) .box-header3 .header-logo {
+      background: rgba(255, 255, 255, 0.8);
+      padding: 0 30px;
+      position: relative; }
+      #index header:not(.navbar-fixed-top) .box-header3 .header-logo:before {
+        content: "";
+        position: absolute;
+        bottom: -3px;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: #fff; } }
+
+.header-container .container {
+  position: relative; }
+
+/*# sourceMappingURL=headerposition1516983239.css.map */

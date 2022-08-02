@@ -1,0 +1,24 @@
+/*home 3*/
+.block_newsletter .block_content {
+  padding: 0; }
+  .block_newsletter .block_content:after {
+    display: none; }
+
+.block-social .social-title {
+  display: none; }
+
+.box-ftoph3 .block_newsletter .title_block {
+  font-size: 36px;
+  text-transform: capitalize;
+  letter-spacing: -1px; }
+  @media (max-width: 991px) {
+    .box-ftoph3 .block_newsletter .title_block {
+      font-size: 26px; } }
+  @media (max-width: 480px) {
+    .box-ftoph3 .block_newsletter .title_block {
+      font-size: 20px; } }
+
+.block_newsletter .input-wrapper input {
+  background: none; }
+
+/*# sourceMappingURL=profile1516965687.css.map */
